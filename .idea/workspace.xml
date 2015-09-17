@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396f7c45-9fd9-4bc7-8caf-5117e4610141" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SimpleTaskManager.iws" />
@@ -531,6 +530,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="396f7c45-9fd9-4bc7-8caf-5117e4610141" name="Default" comment="" />
@@ -538,6 +540,13 @@
       <option name="number" value="Default" />
       <updated>1442468189769</updated>
     </task>
+    <task id="LOCAL-00001" summary="add picture">
+      <created>1442486460887</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1442486460887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -571,6 +580,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add picture" />
+    <option name="LAST_COMMIT_MESSAGE" value="add picture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
